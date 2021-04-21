@@ -24,4 +24,11 @@
  </div>
  
 <!--START_SECTION:waka-->
+```text
+Blade Template   21 hrs 36 mins  ████████████████░░░░░░░░░   64.15 % 
+PHP              10 hrs 7 mins   ███████▓░░░░░░░░░░░░░░░░░   30.07 % 
+Vue.js           1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+JavaScript       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+HTML             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+```
 <!--END_SECTION:waka-->
