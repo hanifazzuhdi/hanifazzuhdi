@@ -23,6 +23,8 @@
 
  </div>
  
+ 📊 **Weekly Development Breakdown**
+ 
 <!--START_SECTION:waka-->
 ```text
 Blade Template   21 hrs 36 mins  ████████████████░░░░░░░░░   64.15 % 
