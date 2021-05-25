@@ -25,7 +25,9 @@
  
 <details>
   <summary><b> 📊 Statistics </b></summary>
-
+  
+  <br/>
+  
   <!--START_SECTION:waka-->
   ```text
   HTML         2 hrs 44 mins   ███████████████████▓░░░░░   78.21 % 
