@@ -13,13 +13,13 @@
   <br/>
   
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 16 Contributions in the Year 2022
+> 🏆 21 Contributions in the Year 2022
  > 
-> 📦 411.4 kB Used in GitHub's Storage 
+> 📦 414.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,27 +27,7 @@
  > 
 > 🔑 25 Private Repositories  
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Blade Template           22 hrs 33 mins      ██████████████░░░░░░░░░░░   58.95% 
-PHP                      11 hrs 7 mins       ███████░░░░░░░░░░░░░░░░░░   29.05% 
-JavaScript               3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.72% 
-CSS                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35% 
-SCSS                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
-
-🔥 Editors: 
-VS Code                  38 hrs 15 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      38 hrs 15 mins      █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 20/01/2022
+ Last Updated on 25/01/2022 00:52:27 UTC
 <!--END_SECTION:waka-->
 </details>
