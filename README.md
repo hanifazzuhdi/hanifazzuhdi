@@ -2,32 +2,3 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hanifazzuhdi.hanifazzuhdi)
 [![GitHub followers](https://img.shields.io/github/followers/hanifazzuhdi?label=Follow&style=social)](https://github.com/hanifazzuhdi/?tab=follow) 
-[![Instagram Badge](https://img.shields.io/badge/-hanifazzuhdi-blue?style=social&logo=Instagram&link=https://www.instagram.com/hnfhanif52/)](https://www.instagram.com/hnfhanif52/)
-[![Telegram Badge](https://img.shields.io/badge/-hanifazzuhdi-blue?style=social&logo=telegram&link=https://www.t.me/hanif0198/)](https://www.t.me/hanif0198/) 
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=hanifazzuhdi&count_private=true&title_color=333&text_color=777&show_icons=true&icon_color=333&line_height=20px)](https://github.com/hanifazzuhdi)
-
-<details>
-  <summary><b> 📊 Statistics </b></summary>
-  
-  <br/>
-  
-  <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 82 Contributions in the Year 2022
- > 
-> 📦 508.2 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 23 Public Repositories 
- > 
-> 🔑 26 Private Repositories  
- > 
-
- Last Updated on 08/05/2022 01:07:58 UTC
-<!--END_SECTION:waka-->
-</details>
