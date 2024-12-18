@@ -7,15 +7,11 @@
 <hr/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.9%20million%20lines%20of%20code-blue)
-
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                10085 commits       ███████████░░░░░░░░░░░░░░   44.49 % 
-🌆 Daytime                10011 commits       ███████████░░░░░░░░░░░░░░   44.16 % 
+🌆 Daytime                10012 commits       ███████████░░░░░░░░░░░░░░   44.17 % 
 🌃 Evening                1887 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
 🌙 Night                  685 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 ```
@@ -38,5 +34,5 @@ WebStorm                 14 hrs 5 mins       ██████░░░░░�
 ```
 
 
- Last Updated on 18/12/2024 04:12:19 UTC
+ Last Updated on 18/12/2024 07:06:07 UTC
 <!--END_SECTION:waka-->
