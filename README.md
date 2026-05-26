@@ -7,6 +7,16 @@
 <hr/>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 25/05/2026 02:28:59 UTC
+```text
+🌞 Morning                15796 commits       ██████████░░░░░░░░░░░░░░░   39.49 % 
+🌆 Daytime                15309 commits       ██████████░░░░░░░░░░░░░░░   38.28 % 
+🌃 Evening                5243 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+🌙 Night                  3649 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+```
+
+
+
+ Last Updated on 26/05/2026 02:16:06 UTC
 <!--END_SECTION:waka-->
