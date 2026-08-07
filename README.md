@@ -7,10 +7,29 @@
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C793%20hrs%2015%20mins-blue?style=flat)
+**I'm an Early 🐤** 
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2025%20mins-blue?style=flat)
+```text
+🌞 Morning                16285 commits       ██████████░░░░░░░░░░░░░░░   38.61 % 
+🌆 Daytime                15674 commits       █████████░░░░░░░░░░░░░░░░   37.16 % 
+🌃 Evening                5980 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+🌙 Night                  4243 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+```
 
 
- Last Updated on 07/08/2026 02:33:52 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      16 hrs 2 mins       █████████████░░░░░░░░░░░░   50.83 % 
+Go                       7 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+Blade Template           3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+.env file                37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+```
+
+
+ Last Updated on 07/08/2026 03:56:37 UTC
 <!--END_SECTION:waka-->
