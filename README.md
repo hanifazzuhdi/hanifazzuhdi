@@ -23,13 +23,13 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       11 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   40.97 % 
-PHP                      11 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   39.44 % 
-TypeScript               2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Blade Template           1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Dart                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+PHP                      11 hrs 8 mins       █████████████░░░░░░░░░░░░   50.02 % 
+Go                       5 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+TypeScript               2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Blade Template           1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
- Last Updated on 25/08/2026 01:09:59 UTC
+ Last Updated on 26/08/2026 01:10:42 UTC
 <!--END_SECTION:waka-->
