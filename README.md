@@ -7,13 +7,13 @@
 <hr/>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                16557 commits       █████████░░░░░░░░░░░░░░░░   37.71 % 
-🌆 Daytime                15890 commits       █████████░░░░░░░░░░░░░░░░   36.19 % 
-🌃 Evening                6577 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-🌙 Night                  4883 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+🌞 Morning                3010 commits        █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+🌆 Daytime                2760 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+🌃 Evening                4990 commits        ████████░░░░░░░░░░░░░░░░░   33.22 % 
+🌙 Night                  4260 commits        ███████░░░░░░░░░░░░░░░░░░   28.36 % 
 ```
 
 
@@ -23,13 +23,13 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      11 hrs 8 mins       █████████████░░░░░░░░░░░░   50.02 % 
-Go                       5 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-TypeScript               2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Blade Template           1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+PHP                      14 hrs 47 mins      ███████████████░░░░░░░░░░   60.63 % 
+Go                       2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+TypeScript               2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Blade Template           2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Markdown                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 
 
- Last Updated on 26/08/2026 01:10:42 UTC
+ Last Updated on 27/08/2026 06:37:33 UTC
 <!--END_SECTION:waka-->
