@@ -23,13 +23,13 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       18 hrs 52 mins      ████████████████░░░░░░░░░   62.87 % 
-PHP                      3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-JSON                     2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-TypeScript               1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Bash                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Go                       17 hrs 1 min        ██████████████░░░░░░░░░░░   56.09 % 
+PHP                      5 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+JSON                     2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+TypeScript               1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+textmate                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 ```
 
 
- Last Updated on 27/10/2026 03:17:30 UTC
+ Last Updated on 28/10/2026 03:31:37 UTC
 <!--END_SECTION:waka-->
